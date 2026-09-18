@@ -1,0 +1,9 @@
+{
+  // ...
+  "vars": {
+    "admin": "admin@tomori.dpdns.org",
+    "domain": "[\"tomori.dpdns.org\"]",
+    "jwt_secret": "web3tomori"
+  },
+  // ...
+}
